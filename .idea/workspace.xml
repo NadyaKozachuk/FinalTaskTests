@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8afdf7c3-2837-4822-9b48-245accba4882" name="Default Changelist" comment="Commit 1">
+    <list default="true" id="8afdf7c3-2837-4822-9b48-245accba4882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,6 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="IdeDocumentHistory">
@@ -83,29 +86,6 @@
             <path>
               <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
               <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,6 +287,8 @@
       <workItem from="1600231553605" duration="1174000" />
       <workItem from="1600235218374" duration="606000" />
       <workItem from="1600237971705" duration="1777000" />
+      <workItem from="1600259701460" duration="1194000" />
+      <workItem from="1600261514955" duration="2269000" />
     </task>
     <servers />
   </component>
@@ -343,7 +325,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89090000" />
+    <option name="totallyTimeSpent" value="92553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +339,7 @@
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1655" height="941" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.416615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4265344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -366,7 +348,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30153123" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30153123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39811543" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
