@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8afdf7c3-2837-4822-9b48-245accba4882" name="Default Changelist" comment="Commit 1">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalTaskTests_NadyaKozachuk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Tests.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Task1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Tests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Task1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FinalTaskTests" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="23" />
+    <option name="width" value="1655" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty">
+    <configuration name="Task1.checkHeadlineArticleContainsSearchWord" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalTaskTests_NadyaKozachuk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <option name="METHOD_NAME" value="checkHeadlineArticleContainsSearchWord" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalTaskTests_NadyaKozachuk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <option name="METHOD_NAME" value="checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1.checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalTaskTests_NadyaKozachuk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <option name="METHOD_NAME" value="checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1.checkThatPosiibleToClickSendButtonOnGivenPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalTaskTests_NadyaKozachuk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <option name="METHOD_NAME" value="checkThatPosiibleToClickSendButtonOnGivenPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1.checkTheNameOfFirstArticleAgainstSpecifiedValue" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalTaskTests_NadyaKozachuk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1" />
+      <option name="METHOD_NAME" value="checkTheNameOfFirstArticleAgainstSpecifiedValue" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" />
+        <item itemvalue="TestNG.Task1.checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty" />
+        <item itemvalue="TestNG.Task1.checkThatPosiibleToClickSendButtonOnGivenPage" />
+        <item itemvalue="TestNG.Task1.checkHeadlineArticleContainsSearchWord" />
+        <item itemvalue="TestNG.Task1.checkTheNameOfFirstArticleAgainstSpecifiedValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8afdf7c3-2837-4822-9b48-245accba4882" name="Default Changelist" comment="" />
+      <created>1598945463178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598945463178</updated>
+      <workItem from="1598945465830" duration="88000" />
+      <workItem from="1598946129531" duration="286000" />
+      <workItem from="1598946433579" duration="17000" />
+      <workItem from="1598946484971" duration="509000" />
+      <workItem from="1598947033683" duration="625000" />
+      <workItem from="1599018143464" duration="657000" />
+      <workItem from="1599039909205" duration="532000" />
+      <workItem from="1599040641377" duration="955000" />
+      <workItem from="1599043443133" duration="976000" />
+      <workItem from="1599045357879" duration="1098000" />
+      <workItem from="1599047209806" duration="28000" />
+      <workItem from="1599047273473" duration="1316000" />
+      <workItem from="1599049469749" duration="840000" />
+      <workItem from="1599055647405" duration="1051000" />
+      <workItem from="1599057504246" duration="1914000" />
+      <workItem from="1599062496231" duration="98000" />
+      <workItem from="1599307200185" duration="680000" />
+      <workItem from="1599308027876" duration="24000" />
+      <workItem from="1599308070782" duration="1004000" />
+      <workItem from="1599309675486" duration="1261000" />
+      <workItem from="1599312069368" duration="155000" />
+      <workItem from="1599314693135" duration="237000" />
+      <workItem from="1599323747318" duration="505000" />
+      <workItem from="1599328806313" duration="664000" />
+      <workItem from="1599330671897" duration="970000" />
+      <workItem from="1599345911453" duration="1283000" />
+      <workItem from="1599347937811" duration="1756000" />
+      <workItem from="1599349762141" duration="689000" />
+      <workItem from="1599406823691" duration="359000" />
+      <workItem from="1599484174286" duration="389000" />
+      <workItem from="1599560500075" duration="801000" />
+      <workItem from="1599563982588" duration="442000" />
+      <workItem from="1599565831628" duration="1365000" />
+      <workItem from="1599568408355" duration="1354000" />
+      <workItem from="1599570231093" duration="1559000" />
+      <workItem from="1599572481516" duration="926000" />
+      <workItem from="1599574973107" duration="482000" />
+      <workItem from="1599577643395" duration="1628000" />
+      <workItem from="1599579472755" duration="1767000" />
+      <workItem from="1599581292593" duration="1783000" />
+      <workItem from="1599583115567" duration="1199000" />
+      <workItem from="1599584917540" duration="1729000" />
+      <workItem from="1599586729528" duration="1803000" />
+      <workItem from="1599588616498" duration="925000" />
+      <workItem from="1599596243523" duration="1550000" />
+      <workItem from="1599598053830" duration="1759000" />
+      <workItem from="1599599884511" duration="1819000" />
+      <workItem from="1599641525930" duration="107000" />
+      <workItem from="1599643438330" duration="1875000" />
+      <workItem from="1599645425897" duration="511000" />
+      <workItem from="1599649769053" duration="956000" />
+      <workItem from="1599650769558" duration="1748000" />
+      <workItem from="1599652963963" duration="1639000" />
+      <workItem from="1599654849965" duration="1238000" />
+      <workItem from="1599658996181" duration="357000" />
+      <workItem from="1599662326227" duration="832000" />
+      <workItem from="1599665271851" duration="1624000" />
+      <workItem from="1599667107962" duration="1018000" />
+      <workItem from="1599669348830" duration="1622000" />
+      <workItem from="1599671525131" duration="824000" />
+      <workItem from="1599682219058" duration="391000" />
+      <workItem from="1599827982301" duration="1135000" />
+      <workItem from="1599832549708" duration="670000" />
+      <workItem from="1599847082639" duration="1988000" />
+      <workItem from="1599920028531" duration="3000" />
+      <workItem from="1600012764657" duration="878000" />
+      <workItem from="1600014716584" duration="1019000" />
+      <workItem from="1600064275463" duration="1881000" />
+      <workItem from="1600069481739" duration="890000" />
+      <workItem from="1600076756409" duration="18000" />
+      <workItem from="1600165766717" duration="716000" />
+      <workItem from="1600166550727" duration="1115000" />
+      <workItem from="1600167791719" duration="2107000" />
+      <workItem from="1600170059806" duration="1373000" />
+      <workItem from="1600171873319" duration="1501000" />
+      <workItem from="1600173688008" duration="1741000" />
+      <workItem from="1600176258783" duration="1858000" />
+      <workItem from="1600178219035" duration="814000" />
+      <workItem from="1600195455692" duration="162000" />
+      <workItem from="1600198170197" duration="1624000" />
+      <workItem from="1600200516967" duration="3155000" />
+      <workItem from="1600204248440" duration="581000" />
+      <workItem from="1600229202905" duration="238000" />
+      <workItem from="1600231553605" duration="1174000" />
+      <workItem from="1600235218374" duration="606000" />
+      <workItem from="1600237971705" duration="1777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty - 2020.09.15 at 16h 28m 27s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty - 2020.09.15 at 16h 29m 25s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty - 2020.09.15 at 16h 29m 52s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenRequeredFieldIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenCheckBoxIsEmpty - 2020.09.15 at 16h 40m 51s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenCheckBoxIsEmpty - 2020.09.15 at 16h 42m 06s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenCheckBoxIsEmpty - 2020.09.15 at 16h 44m 58s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenCheckBoxIsEmpty - 2020.09.15 at 16h 45m 50s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenCheckBoxIsEmpty - 2020.09.15 at 16h 46m 16s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenCheckBoxIsEmpty - 2020.09.15 at 16h 47m 32s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Task1_checkThatAlertMessageAppearsWhenCheckBoxIsEmpty - 2020.09.15 at 16h 48m 21s.xml">
+      <configuration name="Task1.checkThatAlertMessageAppearsWhenCheckBoxIsEmpty" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87623000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="23" width="1655" height="941" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3967762" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30153123" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39811543" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32979977" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32979977" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32744405" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.018598884" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1114" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Tests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
