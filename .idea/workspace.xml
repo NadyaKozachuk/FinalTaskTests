@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8afdf7c3-2837-4822-9b48-245accba4882" name="Default Changelist" comment="" />
+    <list default="true" id="8afdf7c3-2837-4822-9b48-245accba4882" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,16 +132,10 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FinalTaskTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalTaskTests" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +243,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8afdf7c3-2837-4822-9b48-245accba4882" name="Default Changelist" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1598945463178</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -346,6 +342,7 @@
       <workItem from="1600322057145" duration="1453000" />
       <workItem from="1600323521605" duration="590000" />
       <workItem from="1600324132527" duration="1933000" />
+      <workItem from="1600326140097" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1600264144021</created>
@@ -432,7 +429,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100518000" />
+    <option name="totallyTimeSpent" value="100762000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -445,8 +442,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="23" width="1655" height="941" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.44229606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.44229606" />
       <window_info id="Structure" order="1" sideWeight="0.50087875" side_tool="true" weight="0.4482331" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -462,10 +460,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49907005" weight="0.32979977" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4936556" visible="true" weight="0.3275862" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49305135" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49969003" weight="0.32979977" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50634444" side_tool="true" visible="true" weight="0.3275862" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50694865" side_tool="true" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32744405" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
